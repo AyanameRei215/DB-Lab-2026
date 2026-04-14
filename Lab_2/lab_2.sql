@@ -155,13 +155,3 @@ SELECT * FROM product;
 SELECT * FROM stock;
 SELECT * FROM supply;
 SELECT * FROM sale;
-
-SELECT * FROM category
-SELECT * FROM warehouse
-SELECT * FROM supplier
-SELECT * FROM employee
-SELECT * FROM customer
-SELECT * FROM product
-SELECT * FROM stock
-SELECT * FROM supply
-SELECT * FROM sale
